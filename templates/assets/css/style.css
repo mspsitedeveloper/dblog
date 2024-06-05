@@ -1,0 +1,8 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face {
+    font-family: 'dblog';
+    src: url('fonts/Vazirmatn-Light.woff2') format('woff2')
+}
